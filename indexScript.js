@@ -9,4 +9,4 @@ const person = {
   lastName:"Mal"
   favoriteColor:"Green"
   age:"20"
-}>
+} >
