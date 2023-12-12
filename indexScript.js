@@ -10,3 +10,9 @@ const person = {
   favoriteColor:"Green"
   age:"20"
 };
+// To display the final no. of days (result)
+
+function Days() {
+// To display the final no. of days (result)
+window.alert ("It's been " +  Difference_In_Days + " days");
+}
