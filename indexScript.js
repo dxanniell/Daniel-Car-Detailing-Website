@@ -20,6 +20,10 @@ const person = {
   favoriteColor:"Green"
   age:"20"
 };
+function birthday(){
+	person.age=person.age+1;
+	window.alert(person.age);
+}
 // To display the final no. of days (result)
 
 function Days() {
