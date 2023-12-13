@@ -14,11 +14,10 @@ let Difference_In_Days =
 function printToConsole(input) {
     window.alert(input);
 }
-const person = {
+let person = {
   firstName:"Daniel",
-  lastName:"Mal"
-  favoriteColor:"Green"
-  age:"20"
+  age: 38,
+  favoriteColor: "Green"
 };
 function birthday(){
 	person.age=person.age+1;
